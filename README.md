@@ -1,9 +1,9 @@
 # Asynchronous Programming and Testing
 This repo contains various tasks and problems related to Asynchronous Programing including: 
-* AJAX Requests;
-* Promises;
-* Fetch API;
-* ES6 Async/Await.  
+ * AJAX Requests;
+ * Promises;
+ * Fetch API;
+ * ES6 Async/Await.  
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -14,10 +14,10 @@ This repo contains various tasks and problems related to Asynchronous Programing
 
 ## General Information
 The repo contains my solutions to number of tasks and problems related to
-• AJAX Requests and Use the fetch API to get data;
-• Asynchronous Programming;
-• Promises Deep Dive;
-• Async/Await;
+    * AJAX Requests and Use the fetch API to get data;
+    * Asynchronous Programming;
+    * Promises Deep Dive;
+    * Async/Await;
 ## Technologies Used
 - JS ES6
 ## Acknowledgements
