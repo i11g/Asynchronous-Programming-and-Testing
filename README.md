@@ -13,11 +13,11 @@ This repo contains various tasks and problems related to Asynchronous Programing
 * [License](#license) 
 
 ## General Information
-The repo contains my solutions to number of tasks and problems related to
-    * AJAX Requests and Use the fetch API to get data;
-    * Asynchronous Programming;
-    * Promises Deep Dive;
-    * Async/Await;
+The repo contains my solutions to number of tasks and problems related to:
+ * AJAX Requests and Use the fetch API to get data;
+ * Asynchronous Programming;
+ * Promises Deep Dive;
+ * Async/Await;
 ## Technologies Used
 - JS ES6
 ## Acknowledgements
